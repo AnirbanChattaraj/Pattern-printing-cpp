@@ -24,7 +24,7 @@ Starts with simple star patterns and gradually moves toward aligned and symmetri
 
 Single Row Stars
 
-* * * * *
+
 
 Square Pattern
 
